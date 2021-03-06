@@ -11,6 +11,8 @@ namespace DeğerVeReferansTipler
             //array,class,interface referans tiplerdir.Değişiklikten anında etkilenir sonra veya önce bile olsa. Heap'te gerçekleşir.
      
 
+
+
         }
     }
 }

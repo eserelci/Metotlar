@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeğerVeReferansTipler", "DeğerVeReferansTipler\DeğerVeReferansTipler.csproj", "{8774E302-3342-4E77-96D0-83CDBF824AFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{D2FF51F2-0B05-4C0A-8A8E-8B892C68AD52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8774E302-3342-4E77-96D0-83CDBF824AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8774E302-3342-4E77-96D0-83CDBF824AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8774E302-3342-4E77-96D0-83CDBF824AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2FF51F2-0B05-4C0A-8A8E-8B892C68AD52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FF51F2-0B05-4C0A-8A8E-8B892C68AD52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FF51F2-0B05-4C0A-8A8E-8B892C68AD52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FF51F2-0B05-4C0A-8A8E-8B892C68AD52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
